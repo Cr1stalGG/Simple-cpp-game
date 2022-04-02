@@ -1,15 +1,11 @@
 # Prerequisites
 *.d
 
-#Visual C++ cache files
-ipch/
-*.aps
-*.ncb
-*.opendb
-*.opensdf
-*.sdf
-*.cachefile
+<<<<<<< HEAD
 
+
+=======
+>>>>>>> 5143b1bfb0e4915978b3314b877c0fea73da80f1
 # Compiled Object files
 *.slo
 *.lo
@@ -39,3 +35,12 @@ ipch/
 *.exe
 *.out
 *.app
+
+#Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
